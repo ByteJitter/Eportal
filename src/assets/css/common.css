@@ -1,0 +1,12 @@
+:first-child:not(.v-btn):not(.v-chip) .button {
+  border-radius: 10px;
+}
+
+.table-title {
+  margin-top: -100px;
+}
+/* 表单文字两端对齐 */
+.text-justified {
+  text-align: justify;
+  text-align-last: justify;
+}
